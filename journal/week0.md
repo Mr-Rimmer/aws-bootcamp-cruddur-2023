@@ -6,7 +6,7 @@
 - Watched Chirag's Week 0 - Spend Considerations - **Completed**  
 - Watched Ashish's Week 0 - Security Considerations - 
 - Recreate Conceptual Diagram in Lucid Charts or on a Napkin - **Completed 15-02-23**
-- Recreate Logical Architectual Diagram in Lucid Charts - **Completed 16-02-2023**
+- Recreate Logical Architectual Diagram in Lucid Charts - **in progress 16-02-2023**
 - Create an Admin User - **Completed - Completed 12-02-23**
 - Use CloudShell - **Completed 12-02-23**
 - Generate AWS Credentials - **Completed 12-02-23**
@@ -17,8 +17,8 @@
 
 ## Homework Evidence
 
-1. Watched Chirag's Week 0:**Evidence**
-         **Completed  - _No evidence aviliavle for this activity_** 
+1. Watched Chirag's Week 0: **Evidence**
+  -       **Completed  - _No evidence aviliavle for this activity_** 
 
 2.  Watched Ashish's Week 0:**Evidence**
 3.  Recreate Conceptual Diagram in Lucid Charts or on a Napkin:**Evidence**
@@ -27,20 +27,19 @@
 
 
 
-5.  Recreate Logical Architectual Diagram in Lucid Charts:**Evidence**
+4.  Recreate Logical Architectual Diagram in Lucid Charts:**Evidence**
 
 ![image](https://user-images.githubusercontent.com/124871057/219427336-1a3c02f7-3b9d-4a48-bf23-7065e82de21a.png)
 
-**Bit more detail to complet with this drawing** 
+<h3 align="center"> **###Bit more detail to complet with this drawing**</h3> 
 
 
 7.  Create an Admin User:**Evidence**
-8. 
-9.  Use CloudShell Evidence:**Evidence**
+8.  Use CloudShell Evidence:**Evidence**
 -         **Completed  - _No evidence aviliavle for this activity_** 
 
 
-10. Generate AWS Credentials:**Evidence**
+9. Generate AWS Credentials:**Evidence**
 11. Installed AWS CLI:**Evidence**
 
 
