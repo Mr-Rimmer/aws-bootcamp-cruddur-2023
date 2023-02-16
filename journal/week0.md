@@ -31,13 +31,17 @@
 
 ![image](https://user-images.githubusercontent.com/124871057/219427336-1a3c02f7-3b9d-4a48-bf23-7065e82de21a.png)
 
+**Bit more detail to complet with this drawing** 
 
-**Bit more detail to complet on this drawing** 
+
 7.  Create an Admin User:**Evidence**
-8.  Use CloudShell Evidence:**Evidence**
+8. 
+9.  Use CloudShell Evidence:**Evidence**
 -         **Completed  - _No evidence aviliavle for this activity_** 
-9. Generate AWS Credentials:**Evidence**
-10. Installed AWS CLI:**Evidence**
+
+
+10. Generate AWS Credentials:**Evidence**
+11. Installed AWS CLI:**Evidence**
 
 
 
