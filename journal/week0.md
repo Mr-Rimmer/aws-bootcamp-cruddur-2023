@@ -23,6 +23,8 @@
 2.  Watched Ashish's Week 0:**Evidence**
 3.  Recreate Conceptual Diagram in Lucid Charts or on a Napkin:**Evidence**
 
+![image](https://user-images.githubusercontent.com/124871057/219428483-7309e0b6-13b7-4378-ac7c-4b2df3661822.png)
+
 
 
 5.  Recreate Logical Architectual Diagram in Lucid Charts:**Evidence**
@@ -30,7 +32,7 @@
 ![image](https://user-images.githubusercontent.com/124871057/219427336-1a3c02f7-3b9d-4a48-bf23-7065e82de21a.png)
 
 
-
+**Bit more detail to complet on this drawing** 
 7.  Create an Admin User:**Evidence**
 8.  Use CloudShell Evidence:**Evidence**
 -         **Completed  - _No evidence aviliavle for this activity_** 
