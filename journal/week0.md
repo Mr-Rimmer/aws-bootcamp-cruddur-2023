@@ -22,12 +22,20 @@
 
 2.  Watched Ashish's Week 0:**Evidence**
 3.  Recreate Conceptual Diagram in Lucid Charts or on a Napkin:**Evidence**
-4.  Recreate Logical Architectual Diagram in Lucid Charts:**Evidence**
-5.  Create an Admin User:**Evidence**
-6.  Use CloudShell Evidence:**Evidence**
+
+
+
+5.  Recreate Logical Architectual Diagram in Lucid Charts:**Evidence**
+
+![image](https://user-images.githubusercontent.com/124871057/219427336-1a3c02f7-3b9d-4a48-bf23-7065e82de21a.png)
+
+
+
+7.  Create an Admin User:**Evidence**
+8.  Use CloudShell Evidence:**Evidence**
 -         **Completed  - _No evidence aviliavle for this activity_** 
-7. Generate AWS Credentials:**Evidence**
-8. Installed AWS CLI:**Evidence**
+9. Generate AWS Credentials:**Evidence**
+10. Installed AWS CLI:**Evidence**
 
 
 
