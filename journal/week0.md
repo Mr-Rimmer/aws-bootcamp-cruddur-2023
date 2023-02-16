@@ -1,7 +1,7 @@
 # Week 0 — Billing and Architecture
 
 
-## Required Homework 
+<h3 align="center">## Required Homework</h3> 
 
 - Watched Chirag's Week 0 - Spend Considerations - **Completed**  
 - Watched Ashish's Week 0 - Security Considerations - 
