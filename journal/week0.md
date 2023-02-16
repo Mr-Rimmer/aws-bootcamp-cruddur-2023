@@ -17,22 +17,22 @@
 
 ## Homework Evidence
 
-- Watched Chirag's Week 0:**Evidence**
-Copleted  - _No evidence aviliavle for this activity_ 
+1. Watched Chirag's Week 0:**Evidence**
+         **Completed  - _No evidence aviliavle for this activity_** 
 
-- Watched Ashish's Week 0:**Evidence**
-- Recreate Conceptual Diagram in Lucid Charts or on a Napkin:**Evidence**
-- Recreate Logical Architectual Diagram in Lucid Charts:**Evidence**
-- Create an Admin User:**Evidence**
-- Use CloudShell Evidence:**Evidence**
-- Copleted  - _No evidence aviliavle for this activity_ 
-- Generate AWS Credentials:**Evidence**
-- Installed AWS CLI:**Evidence**
+2.  Watched Ashish's Week 0:**Evidence**
+3.  Recreate Conceptual Diagram in Lucid Charts or on a Napkin:**Evidence**
+4.  Recreate Logical Architectual Diagram in Lucid Charts:**Evidence**
+5.  Create an Admin User:**Evidence**
+6.  Use CloudShell Evidence:**Evidence**
+-         **Completed  - _No evidence aviliavle for this activity_** 
+7. Generate AWS Credentials:**Evidence**
+8. Installed AWS CLI:**Evidence**
 
 
 
-- Create a Billing Alarm:**Evidence**
-- Create a Budget:**Evidence**
+9.  Create a Billing Alarm:**Evidence**
+10. Create a Budget:**Evidence**
 
 
 
