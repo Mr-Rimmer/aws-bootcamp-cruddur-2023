@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/124871057/219427336-1a3c02f7-3b9d-4a48-bf23-7065e82de21a.png)
 
-<h3 align="center"> **###Bit more detail to complet with this drawing**</h3> 
+<h3 align="center"> ###Bit more detail to complet with this drawing</h3> 
 
 
 7.  Create an Admin User:**Evidence**
