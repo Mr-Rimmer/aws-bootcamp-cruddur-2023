@@ -53,7 +53,11 @@
 
 Review Well articulated Tools assignment: 
  
-I completed my review of the well-articulated tool, with the additional serverless lenses. Having completed my review I decided encapsulate how this is tool is constructed and which AWS components the tool draws its references from 
+I completed my review of the well-articulated tool, with the additional serverless lenses. Having completed my review I decided encapsulate how this is tool is constructed and which AWS components the tool draws its references from. 
+
+- My assignment is weighted towards the security element
+- I have water marked each page as evidence. 
+
 
 
 ![image](https://user-images.githubusercontent.com/124871057/219440222-b873316d-53c5-4bf7-a135-e3cdee2e0a75.png)
