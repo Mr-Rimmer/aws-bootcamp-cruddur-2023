@@ -1,7 +1,7 @@
 # Week 0 — Billing and Architecture
 
 
-<h3 align="center">## Required Homework</h3> 
+## Required Homework 
 
 - Watched Chirag's Week 0 - Spend Considerations - **Completed**  
 - Watched Ashish's Week 0 - Security Considerations - 
@@ -18,11 +18,14 @@
 ## Homework Evidence
 
 - Watched Chirag's Week 0:**Evidence**
+Copleted  - _No evidence aviliavle for this activity_ 
+
 - Watched Ashish's Week 0:**Evidence**
 - Recreate Conceptual Diagram in Lucid Charts or on a Napkin:**Evidence**
 - Recreate Logical Architectual Diagram in Lucid Charts:**Evidence**
 - Create an Admin User:**Evidence**
 - Use CloudShell Evidence:**Evidence**
+- Copleted  - _No evidence aviliavle for this activity_ 
 - Generate AWS Credentials:**Evidence**
 - Installed AWS CLI:**Evidence**
 
