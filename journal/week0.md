@@ -39,8 +39,7 @@
 
 7.  Create an Admin User:**Evidence**
 
-![image](https://user-images.githubusercontent.com/124871057/219867385-049532de-ac6e-41ba-b352-07be615abea3.png)
-
+See No:11
 
 9.  Use CloudShell Evidence:**Evidence**
 -         **Completed  - _No evidence aviliavle for this activity_** 
@@ -49,6 +48,7 @@
 9. Generate AWS Credentials:**Evidence**
 11. Installed AWS CLI:**Evidence**
 
+![image](https://user-images.githubusercontent.com/124871057/219867461-a1e19096-bb0b-49be-9b30-92b1516a653b.png)
 
 
 9.  Create a Billing Alarm:**Evidence**
