@@ -38,7 +38,11 @@
 
 
 7.  Create an Admin User:**Evidence**
-8.  Use CloudShell Evidence:**Evidence**
+
+![image](https://user-images.githubusercontent.com/124871057/219867385-049532de-ac6e-41ba-b352-07be615abea3.png)
+
+
+9.  Use CloudShell Evidence:**Evidence**
 -         **Completed  - _No evidence aviliavle for this activity_** 
 
 
