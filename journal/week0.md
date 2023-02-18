@@ -29,7 +29,9 @@
 
 4.  Recreate Logical Architectual Diagram in Lucid Charts:**Evidence**
 
-![image](https://user-images.githubusercontent.com/124871057/219427336-1a3c02f7-3b9d-4a48-bf23-7065e82de21a.png)
+
+![image](https://user-images.githubusercontent.com/124871057/219865198-4b4c6363-26e2-47b8-9572-9c06f0a051e5.png)
+
 
 ### <h3 align="center"> Bit more detail to complete with this drawing</h3> 
 
