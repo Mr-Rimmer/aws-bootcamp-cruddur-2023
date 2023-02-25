@@ -16,7 +16,7 @@ Warp core failuer on the Notification Backend. On Sub-light until the dilithium 
 - Watched Ashish's Week 1 - Container Security Considerations - **Completed **21-02-23**
 - Containerize Application (Dockerfiles, Docker Compose) - **Completed 21-02-23**
 - Document the Notification Endpoint for the OpenAI Document - **completed 24-02-2023** 
-- Write a React Page for Notifications - **24-02-2023** 
+- Write a React Page for Notifications - **completed** **24-02-2023** 
 - Run DynamoDB Local Container and ensure it works 	- **_Not completed_**  
 - Run Postgres Container and ensure it works - **_Not Completed_** 
 
