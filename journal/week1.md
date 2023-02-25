@@ -1,4 +1,4 @@
-# Week 1 — Billing and Architecture
+# Week 1 — App Containerisation 
 
 
 ## Required Homework 
@@ -21,3 +21,4 @@
 
 
 ![image](https://user-images.githubusercontent.com/124871057/221354052-07c0b184-cf67-421e-842e-e0900d7c6eae.png)
+
