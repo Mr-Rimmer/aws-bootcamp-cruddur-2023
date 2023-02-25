@@ -2,6 +2,15 @@
 
 ### Summary
 Warp core failuer on the Notification Backend. On Sub-light until the dilithium crystals issue is found!  
+
+* Completed 10 of the 'Too Do's',  but unfortunately I'm stuck.at the notification point.
+* Issue is  - 'Backend' service ports will NOT become available ( Not Green).  Service worked prior to notification work, but no fails.
+* Spend a lot of effort going through code trying to resolve, but not luck.  
+* Access to discord is closed so cannot ask the forum 
+
+**See apendix for issue details** 
+
+
 - **Too do is DynamoDB and PostGres**
 
   
@@ -32,4 +41,18 @@ Warp core failuer on the Notification Backend. On Sub-light until the dilithium 
 **Completed Adrian Cantril Docker Fundamentails**   
  
  ![image](https://user-images.githubusercontent.com/124871057/221355043-6879f596-dce8-4957-ba4f-2ac26fc41068.png)
+ 
+ 
+ ### Appendix
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/124871057/221366983-a87c3cd8-3a5d-4cea-8dc8-40741f9f0ba1.png)
+
+- Issue desplays this error - However, I cannot see any issue here
+
+ ![image](https://user-images.githubusercontent.com/124871057/221367030-dbbfd7fc-c60f-41b1-8eb5-a5ac46920e6b.png)
+
+ 
+ 
+ 
 
