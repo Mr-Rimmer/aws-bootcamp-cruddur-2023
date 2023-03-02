@@ -21,7 +21,8 @@ paths:
                 items:
                   $ref: '#/components/schemas/Activity'
   /api/activities/search:
-    get:
+      /api/activities/search:
+      get:
       description: 'Return a feed of activity based on a search term'
       tags:
         - activities
