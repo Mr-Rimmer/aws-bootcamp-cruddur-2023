@@ -66,8 +66,9 @@ from flask import got_request_exception
 # simple_processor = SimpleSpanProcessor(ConsoleSpanExporter())
 # provider.add_span_processor(simple_processor)
 
-trace.set_tracer_provider(provider)
-tracer = trace.get_tracer(__name__)
+# Removed as its stopping the back end service form starting 
+# trace.set_tracer_provider(provider)
+# tracer = trace.get_tracer(__name__)
 
 
 
@@ -143,7 +144,6 @@ def data_message_groups():
 def data_messages(handle):
   user_sender_handle = 'andrewbrown'
   user_receiver_handle = request.args.get('user_reciever_handle')
-
   model = Messages.run(user_sender_handle=user_sender_handle, user_receiver_handle=user_receiver_handle)
   if model['errors'] is not None:
     return model['errors'], 422
@@ -157,7 +157,6 @@ def data_create_message():
   user_sender_handle = 'andrewbrown'
   user_receiver_handle = request.json['user_receiver_handle']
   message = request.json['message']
-
   model = CreateMessage.run(message=message,user_sender_handle=user_sender_handle,user_receiver_handle=user_receiver_handle)
   if model['errors'] is not None:
     return model['errors'], 422
