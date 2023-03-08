@@ -24,8 +24,8 @@ from services.show_activity import *
 # from opentelemetry.sdk.trace.export import ConsoleSpanExporter, SimpleSpanProcessor
 
 # X-RAY ------X-ray recorder ----
-from aws_xray_sdk.core import xray_recorder
-from aws_xray_sdk.ext.flask.middleware import XRayMiddleware
+# commenting this line  > from aws_xray_sdk.core import xray_recorder
+# commenting this line  > from aws_xray_sdk.ext.flask.middleware import XRayMiddleware
 
 
 # CloudWatch Logs ----
@@ -75,7 +75,7 @@ from flask import got_request_exception
 app = Flask(__name__)
 
 # X-RAY ----------
-XRayMiddleware(app, xray_recorder)
+#  commenting out this line > XRayMiddleware(app, xray_recorder)
 
 # HoneyComb Not ready for this yet ---------
 # Initialize automatic instrumentation with Flask
