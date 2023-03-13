@@ -13,10 +13,11 @@ So far am working at week 4,  However it's just too time consuming fault finding
 ### I have greatly enjoyed your Bootcamp and will Continue to do so, albeit from the sidelines
 ### Cheers and thanks for all the efforts Andrew and team.  
 
+---------------------------------------------------------------
 
 ### update 13-03-2023 PM
 
-Not done too bad today - but after 4 hours I can't get passed the backend issues 
+Not done too bad today - but after 4 hours I can't get passed the backend issues and falling further behind. 
 
 ![image](https://user-images.githubusercontent.com/124871057/224757435-c11d927f-1c36-4830-b894-26d238c3aaaf.png)
 
