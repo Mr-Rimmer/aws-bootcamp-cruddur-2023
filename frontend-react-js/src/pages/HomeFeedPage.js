@@ -1,6 +1,8 @@
 import './HomeFeedPage.css';
 import React from "react";
+
 import { Auth } from 'aws-amplify';
+
 import DesktopNavigation  from '../components/DesktopNavigation';
 import DesktopSidebar     from '../components/DesktopSidebar';
 import ActivityFeed from '../components/ActivityFeed';
@@ -23,6 +25,9 @@ export default function HomeFeedPage() {
     try {
       const backend_url = `${process.env.REACT_APP_BACKEND_URL}/api/activities/home`
       const res = await fetch(backend_url, {
+        headers: {
+          Authorization: `Bearer ${localStorage.getItem("access_token")}`
+        },
         method: "GET"
       });
       let resJson = await res.json();
