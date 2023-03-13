@@ -1,8 +1,9 @@
 # Week 2 — Distributed Tracing
 
-Dropping out of participation after week 4 
+** Dropping out of participation after week 4 ** 
 
--- Reason. It's extremely difficult to complete tasks on time in an individual bases without access to discord  ( as this is where you solve most of the issues I'm encountering). 
+**Reason**
+It's extremely difficult to complete tasks on time in an individual bases without access to discord  ( as this is where you solve most of the issues I'm encountering). 
 
 So far am working at week 4,  However it's just too time consuming fault finding all these little issues without access to support. --Example I have a CORS issue I've been working on for some hours now, this is a blocker to moveing to the next topic..    
 
