@@ -32,7 +32,7 @@ Not done too bad today - but after 4 hours I can't get passed the backend issues
 
 ![image](https://user-images.githubusercontent.com/124871057/224758763-4906c47f-71c3-4e5f-9141-f55ef755c2cb.png)
 
-## Finaly the dreadded blank screen...( was working this morning)  
+## But now Its the dreaded blank screen ( or mauve screen even ) ...( yep it was working this morning, gone backwards now)  
 
 ![image](https://user-images.githubusercontent.com/124871057/224758042-06948485-c658-4571-b9b6-98433efd0e28.png)
 
